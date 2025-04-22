@@ -10,13 +10,13 @@ using NumberSystem;
 namespace NumberNUnit
 {
     [TestFixture]
-    public class Number
+    public class NumberTest
     {
 
         [Test]
         public void even()
         {
-            NumberSystem.Number n1 = new NumberSystem.Number(16);
+            Number n1 = new Number(16);
 
             String expectedValue = "EVEN";
             String actualValue = n1.evenAndOdd();
@@ -27,7 +27,7 @@ namespace NumberNUnit
         [Test]
         public void odd()
         {
-            NumberSystem.Number n1 = new NumberSystem.Number(5);
+            Number n1 = new Number(5);
 
             String expectedValue = "ODD";
             String actualValue = n1.evenAndOdd();
