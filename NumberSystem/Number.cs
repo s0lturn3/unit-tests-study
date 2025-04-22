@@ -10,10 +10,12 @@ namespace NumberSystem
     {
 
         int num;
+        public Guid genericGuid;
 
         public Number(int num)
         {
             this.num = num;
+            this.genericGuid = Guid.NewGuid();
         }
 
         public String evenAndOdd()

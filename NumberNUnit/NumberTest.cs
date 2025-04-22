@@ -10,7 +10,7 @@ using NumberSystem;
 namespace NumberNUnit
 {
     [TestFixture]
-    public class NumberTest
+    public class NumberTestNUnit
     {
 
         [Test]
