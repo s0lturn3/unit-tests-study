@@ -1,6 +1,6 @@
-# NumberSystem | .NET 8
+# NumberSystem | .NET Framework 4.8
 
-Este diretório contém uma solução com 3 projetos C# desenvolvidos com o .NET 8:
+Este diretório contém uma solução com 3 projetos C# desenvolvidos com o .NET Framework 4.8:
 
 1. **NumberSystem**: Contém a implementação da classe original relacionada ao sistema de números.
 2. **NumberNUnit**: Um projeto dedicado a testes unitários utilizando o framework NUnit.

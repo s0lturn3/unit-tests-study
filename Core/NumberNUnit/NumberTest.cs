@@ -1,0 +1,27 @@
+[TestFixture]
+public class NumberTestNUnit
+{
+
+    [Test]
+    public void even()
+    {
+        Number n1 = new Number(16);
+
+        String expectedValue = "EVEN";
+        String actualValue = n1.evenAndOdd();
+
+        Assert.AreEqual(expectedValue, actualValue);
+    }
+
+    [Test]
+    public void odd()
+    {
+        Number n1 = new Number(5);
+
+        String expectedValue = "ODD";
+        String actualValue = n1.evenAndOdd();
+
+        Assert.AreEqual(expectedValue, actualValue);
+    }
+
+}
