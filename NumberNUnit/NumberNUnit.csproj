@@ -11,8 +11,8 @@
     <ProjectGuid>{11C5A1D0-26B7-45BC-883B-4EFE4A7421E6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NumberTest</RootNamespace>
-    <AssemblyName>NumberTest</AssemblyName>
+    <RootNamespace>NumberNUnit</RootNamespace>
+    <AssemblyName>NumberNUnit</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

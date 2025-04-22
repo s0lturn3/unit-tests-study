@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 using NumberSystem;
 
-namespace NumberTest
+namespace NumberNUnit
 {
     [TestFixture]
     public class Number

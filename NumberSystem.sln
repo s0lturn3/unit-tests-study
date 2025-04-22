@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.35229.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSystem", "NumberSystem\NumberSystem.csproj", "{D82BD5CB-5A85-4D7C-8D06-D64ECB631B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTest", "NumberTest\NumberTest.csproj", "{11C5A1D0-26B7-45BC-883B-4EFE4A7421E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberNUnit", "NumberNUnit\NumberNUnit.csproj", "{11C5A1D0-26B7-45BC-883B-4EFE4A7421E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
